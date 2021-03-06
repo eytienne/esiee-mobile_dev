@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="currency_src">1</integer>
+    <!-- values have dollar as base currency  -->
+    <string-array name="currencies_rates">
+        <item>1</item>
+        <item>0.84</item>
+        <item>21.32</item>
+        <item>108.40</item>
+    </string-array>
+    <string-array name="currencies_codes">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>MXN</item>
+        <item>JPY</item>
+    </string-array>
+</resources>

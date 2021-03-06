@@ -1,0 +1,14 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Mobile Dev</string>
+    <string name="title_TV">Conversion tool</string>
+    <string name="input_ET">Value ?</string>
+    <string name="convert_BT">Convert</string>
+    <string name="welcome_TT">Toasted!</string>
+    <string name="bad_value_TT">Give a number</string>
+    <string-array name="currencies_labels">
+        <item name="dollar">US Dollar</item>
+        <item name="euro">Euro</item>
+        <item name="peso">Mexican Peso</item>
+        <item name="yen">Japanese Yen</item>
+    </string-array>
+</resources>
