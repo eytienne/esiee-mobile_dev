@@ -1,4 +1,4 @@
 # esiee-mobile_dev
 
-##TODO
+## TODO
 - hardcoder l'ajout de l'euro dans la liste
