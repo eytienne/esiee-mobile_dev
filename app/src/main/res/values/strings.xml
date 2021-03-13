@@ -5,6 +5,7 @@
     <string name="convert_BT">Convert</string>
     <string name="welcome_TT">Toasted!</string>
     <string name="bad_value_TT">Give a number</string>
+    <string name="api_error_TT">API failure, retry later</string>
     <string-array name="currencies_labels">
         <item name="dollar">US Dollar</item>
         <item name="euro">Euro</item>
