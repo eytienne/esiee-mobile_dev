@@ -1,2 +1,3 @@
+include ':exo'
 include ':app'
 rootProject.name = "Mobile Dev"
