@@ -61,6 +61,30 @@
                 android:textSize="20sp"></TextView>
         </LinearLayout>
 
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/heading_LBTV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10sp"
+                android:layout_marginLeft="10sp"
+                android:layout_marginEnd="5sp"
+                android:layout_marginRight="5sp"
+                android:text="@string/heading"
+                android:textSize="20sp"></TextView>
+
+            <TextView
+                android:id="@+id/heading_TV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unknown"
+                android:textSize="20sp"></TextView>
+        </LinearLayout>
+
         <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:app="http://schemas.android.com/apk/res-auto"
             xmlns:tools="http://schemas.android.com/tools"

@@ -2,5 +2,6 @@
     <string name="app_name">exo</string>
     <string name="latitude">Latitude:</string>
     <string name="longitude">Longitude:</string>
+    <string name="heading">Heading:</string>
     <string name="unknown">unknown</string>
 </resources>
