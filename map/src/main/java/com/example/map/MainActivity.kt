@@ -1,4 +1,4 @@
-package com.example.exo
+package com.example.map
 
 import android.Manifest
 import android.annotation.SuppressLint

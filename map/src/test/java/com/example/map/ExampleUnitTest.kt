@@ -1,4 +1,4 @@
-package com.example.exo
+package com.example.map
 
 import org.junit.Test
 
